@@ -17,7 +17,7 @@ export default function App({store}) {
       <div className="App-list">{storeList}</div>
     </main>
   
-  )
+  )//hello)
 }
 
 
